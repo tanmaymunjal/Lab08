@@ -2,6 +2,7 @@ package com.example.lab08;
 
 // city class
 public class City {
+    // city name
     private String city;
     private String province;
 
